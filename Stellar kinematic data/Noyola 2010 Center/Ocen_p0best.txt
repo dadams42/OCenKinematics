@@ -1,0 +1,12 @@
+#alpha-beta-gamma profile fits
+
+981589.136722 #density scale (arbitrary units)
+
+0.013317 #length scale (kpc)
+
+1.217650 #alpha
+
+7.083356 #beta
+
+0.000015 #gamma
+
