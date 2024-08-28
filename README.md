@@ -6,7 +6,7 @@ Description: Line-of-sight and proper motion velocity dispersions, including vir
 
 Acknowledging this work: You are welcome to use these data for your own research, however, please consider the following: These data are based on multiple publicly available datasets that should be acknowledged. Please refer to Section 3 of Bañares-Hernández et al. (2024) for a detailed description of each of these studies and how these were compiled and modified in our study, acknowledging them accordingly depending on the data employed. The alpha-beta-gamma fit parameters were obtained from a fit to photometric data kindly provided to us by Renuka Pechetti.
 
-Full reference for Bañares-Hernández et al. (2024):
+Full reference of Bañares-Hernández et al. (2024):
 
 @ARTICLE{2024arXiv240800939B,
        author = {{Ba{\~n}ares-Hern{\'a}ndez}, Andr{\'e}s and {Calore}, Francesca and {Camalich}, Jorge Martin and {Read}, Justin I.},
